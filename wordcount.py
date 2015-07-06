@@ -1,6 +1,3 @@
-
-
-
 def process_text(filename):
     testfile = open(filename)
     final_dict = {}
